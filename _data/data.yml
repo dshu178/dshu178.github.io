@@ -48,18 +48,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      10+ years of industry experience building up capability and capacity focusing on delivering results. True innovator with strong industry connections. A passionate linchpin who can quickly connect dots and identify new opportunities.
       adipiscing elit. You can [download my resume](https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/Dan_Shu_Resume_Architect_20230328.pdf).
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor degree in Electronic Engineering
+        university: Xi'an Jiaotong University
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +65,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Post graduate studies, major in digital signal process
+        university: University of Electronic Science and Technology of China
+        time: 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
