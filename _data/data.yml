@@ -175,7 +175,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: 	Quantifying Shmoo Results
-        link: "#"
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/ID_089_Quantify_Shmoo_Results.pdf
         authors: Dan Shu
         conference: Advantest VOICE, 2014
 
