@@ -195,9 +195,15 @@ skills:
       - name: HFSS
         level: 80%
 
+      - name: Python & JAVA
+        level: 80%
+
       - name: C++ & VB6
-        level: 90%
+        level: 80%
       
+      - name: MySQL & MSSQL
+        level: 90%
+
 footer: >
     Dan Shu; March 31, 2023
     
