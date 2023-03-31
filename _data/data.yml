@@ -86,13 +86,13 @@ experiences:
           Owner of Front-End Module (FEM) qualification process. Owner of Power, thermal KPIs. Owner of reference design RF co-existing FEM KPIs.
 
           Driving Mobile RF Front End (RFFE) design, qualification for next generation WiFi7, BT, UWB, and 5G NR-U coexist.
-            ●	Conducting Rx cascade gain line-up analysis to improve Rx desense. 
-            ●	Successfully simulated and predicted WiFi7 MLO 5/6G co-exist mode lo spur 2nd order mixer effects caused Rx desense. 
-            ●	Working on linear/nonlinear/Doherty PA with DPD, memory DPD, CFR, ET, APT, multi modes PA/LNA for low power, cost effective FEM module designs. 
-            ●	Hands-on validating, charactering, generation internal and external formal reports for every FEM engineering stage. Checking items are EVM, drooping, Mask, ACP, IIP2/3, NF, power efficiency etc. over temperatures and voltages. 
-            ●	Highly respected individual by FEM vendors and tester vendors. They are using my feedback to guide their design efforts or instrument improvements for meeting KPIs.  
-            ●	I am the first one who defined Wi-Fi 6E/7 LNA KPIs 3 years ahead of time.
-            ●	Creating, maintaining FEM MSSQL database (over 1T data/1.5billion records). 
+            -	Conducting Rx cascade gain line-up analysis to improve Rx desense. 
+            -	Successfully simulated and predicted WiFi7 MLO 5/6G co-exist mode lo spur 2nd order mixer effects caused Rx desense. 
+            -	Working on linear/nonlinear/Doherty PA with DPD, memory DPD, CFR, ET, APT, multi modes PA/LNA for low power, cost effective FEM module designs. 
+            -	Hands-on validating, charactering, generation internal and external formal reports for every FEM engineering stage. Checking items are EVM, drooping, Mask, ACP, IIP2/3, NF, power efficiency etc. over temperatures and voltages. 
+            -	Highly respected individual by FEM vendors and tester vendors. They are using my feedback to guide their design efforts or instrument improvements for meeting KPIs.  
+            -	I am the first one who defined Wi-Fi 6E/7 LNA KPIs 3 years ahead of time.
+            -	Creating, maintaining FEM MSSQL database (over 1T data/1.5billion records). 
           
           Partner with Qualcomm’s different technology teams to design innovative digital enhancements to wireless products.
             ●	Bringing up 11be/WiFi7 waveforms from Matlab/SystemVue simulation to Lab bench validation for compensating various RF impairments.
@@ -174,7 +174,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: 	Quantifying Shmoo Results
+      - title: Quantifying Shmoo Results
         link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/ID_089_Quantify_Shmoo_Results.pdf
         authors: Dan Shu
         conference: Advantest VOICE, 2014
