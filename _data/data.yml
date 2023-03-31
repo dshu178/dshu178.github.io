@@ -170,9 +170,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+       
     papers:
       - title: Quantifying Shmoo Results
         link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/ID_089_Quantify_Shmoo_Results.pdf
