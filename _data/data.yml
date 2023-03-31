@@ -95,52 +95,52 @@ experiences:
             -	Creating, maintaining FEM MSSQL database (over 1T data/1.5billion records). 
           
           Partner with Qualcomm’s different technology teams to design innovative digital enhancements to wireless products.
-            ●	Bringing up 11be/WiFi7 waveforms from Matlab/SystemVue simulation to Lab bench validation for compensating various RF impairments.
-            ●	Researching PA drooping compensation methods from both silicon process and system baseband. Created a statistic model in MATLAB for estimating the EVM distributions with open loop DPD and improving baseband drooping compensation method based on the PA’s physical thermal nature.
+            -	Bringing up 11be/WiFi7 waveforms from Matlab/SystemVue simulation to Lab bench validation for compensating various RF impairments.
+            -	Researching PA drooping compensation methods from both silicon process and system baseband. Created a statistic model in MATLAB for estimating the EVM distributions with open loop DPD and improving baseband drooping compensation method based on the PA’s physical thermal nature.
           
           Working on 4 categories of battery driven mobile system-level low power design. Owner of power, thermal, throughput, latency KPIs over process, voltage, and temperature. 
-            ●	Lower voltage, current, leakage and frequency.
-            ●	Shorten the SoC circuit activity time such as power collapse, clock gate etc.
-            ●	Balance trade-offs on RF coverage, throughput, and power per Day-of-Use cases.
-            ●	Use CSMA/CA based approach to lower the system wake-up frequency.
+            -	Lower voltage, current, leakage and frequency.
+            -	Shorten the SoC circuit activity time such as power collapse, clock gate etc.
+            -	Balance trade-offs on RF coverage, throughput, and power per Day-of-Use cases.
+            -	Use CSMA/CA based approach to lower the system wake-up frequency.
           Invented mobile SoC dynamic voltage control algorithm for power saving and throughput improvement based on multivariate machine learning models.
-            ●	Design of Experiments (DOE) approach from large lab datasets.
-            ●	Use multivariate machine learning models to calculate the polynomial functions SoC Vmin vs. SoC Process, Tj, and Throughput.
-            ●	Model results have been validated on three generations of SoC designs.
+            -	Design of Experiments (DOE) approach from large lab datasets.
+            -	Use multivariate machine learning models to calculate the polynomial functions SoC Vmin vs. SoC Process, Tj, and Throughput.
+            -	Model results have been validated on three generations of SoC designs.
           Maintaining the pace of per year learning/creating 2 new things in addition to daily work.
-            ●	2023, Built MSSQL database and implemented off-the-shelf DPD solution. 
-            ●	2022, Invented sinewave drooping characterization method and enabled SystemVue simulation platform for complex RF co-exist simulation.
-            ●	2021, Completed 11be compressed PAPR waveform EVM analysis and physically verified 320M BW 11be waveform before SoC RTL releasing. 
-            ●	2020, Applied multivariate machine learning models to the mobile soc dynamic power rail voltage control algorithm as power saving method and promoted the Wi-Fi 6E FEM golden standard over all FEM vendors.
-            ●	2019, Invented mobile reference power estimation tool for customers and maintained power thermal KPIs.
-            ●	2018, Invented access point power estimation tool for customers and created new FEM module evaluation platform.
-            ●	2017 and before, Architected the 11be FTM DVT solutions and started mission mode performance vs. power evaluation task. 
+            -	2023, Built MSSQL database and implemented off-the-shelf DPD solution. 
+            -	2022, Invented sinewave drooping characterization method and enabled SystemVue simulation platform for complex RF co-exist simulation.
+            -	2021, Completed 11be compressed PAPR waveform EVM analysis and physically verified 320M BW 11be waveform before SoC RTL releasing. 
+            -	2020, Applied multivariate machine learning models to the mobile soc dynamic power rail voltage control algorithm as power saving method and promoted the Wi-Fi 6E FEM golden standard over all FEM vendors.
+            -	2019, Invented mobile reference power estimation tool for customers and maintained power thermal KPIs.
+            -	2018, Invented access point power estimation tool for customers and created new FEM module evaluation platform.
+            -	2017 and before, Architected the 11be FTM DVT solutions and started mission mode performance vs. power evaluation task. 
 
       - role: PRINCIPAL ENGINEER, ATE ARCHITECT
         time: 2013 - 2014
         company: Broadcom, Santa Clara, CA USA
         details: |
           Reported to network organization and bought SerDes ATE test for MIPS CPUs and 25GB Switch IC.
-            ●	Solved Broadcom IC backend operation challenges after merged with Netlogic’s multi core server CPU business. 
-            ●	Solved 10G, 25G Serdes ATE characterization and mass production test challenge for 144 lanes switch chip.  
+            -	Solved Broadcom IC backend operation challenges after merged with Netlogic’s multi core server CPU business. 
+            -	Solved 10G, 25G Serdes ATE characterization and mass production test challenge for 144 lanes switch chip.  
 
       - role: I/O CONSULTANT (CONTRACT)
         time: 2012 - 2013
         company: AMD, Markham, ON Canada
         details: |
           Reported to Advantest Test Characterization organization with responsibility for leading complex characterization SerDes ATE solution for APU, GPU, CPU line.
-            ●	Solved PCIE Gen3(8G/s) and GDDR5 ATE test challenges for GPU/APU.
+            -	Solved PCIE Gen3(8G/s) and GDDR5 ATE test challenges for GPU/APU.
 
       - role: PRINCIPAL ENGINEER
         time: 2004 - 2011
         company: Gennum Corp/Semtech, Burlington, Ontario, Canada
         details: |
           Reported to Directors and Sr. VPs with responsibility for leading bare die and final test backend business.
-            ●	Led a task force to deliver the 1st generation Thunderbolt cable drivers (CDRs and EQs) project for the Apple Mac Computer. 
-            ●	Built 26.5GHz BW Optical Domain characterization lab(850/1310/1550nm) for ROSA/TOSA/TIA/Laser Driver/limiting AMP.
-            ●	Characterized ROSA family(>10Gb/s) with following items: Voltage, Temperature, URS, SRS, Jitter, Cross point, Swing, Eye heights, Eye amplitude, Optical S-parameter, etc.
-            ●	Hands-on experience on following optical instruments: Optical Source, Modulation Source, optical return loss, tester, optical vector network analyzer, optical power meter, optical attenuators, optical switches, optical spectrum analyzer, slicer, all sorts of 850nm/1310nm/1550nm connectors, patch cords, EDFA amplifier. 
-            ●	Invented bare die full speed (>10Gb/s) qualification/HTOL methodology. Kept 100% successful rate on this qualification approach. 
+            -	Led a task force to deliver the 1st generation Thunderbolt cable drivers (CDRs and EQs) project for the Apple Mac Computer. 
+            -	Built 26.5GHz BW Optical Domain characterization lab(850/1310/1550nm) for ROSA/TOSA/TIA/Laser Driver/limiting AMP.
+            -	Characterized ROSA family(>10Gb/s) with following items: Voltage, Temperature, URS, SRS, Jitter, Cross point, Swing, Eye heights, Eye amplitude, Optical S-parameter, etc.
+            -	Hands-on experience on following optical instruments: Optical Source, Modulation Source, optical return loss, tester, optical vector network analyzer, optical power meter, optical attenuators, optical switches, optical spectrum analyzer, slicer, all sorts of 850nm/1310nm/1550nm connectors, patch cords, EDFA amplifier. 
+            -	Invented bare die full speed (>10Gb/s) qualification/HTOL methodology. Kept 100% successful rate on this qualification approach. 
 
 projects:
     title: Projects
