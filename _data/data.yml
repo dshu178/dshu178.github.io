@@ -148,24 +148,28 @@ projects:
       Slides for summary and explnation of new ideas
     assignments:
       - title: WiFi package structure
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/IEEE802_11.pdf
+        tagline: "For RF engineers to understand wifi basic"
 
       - title: Multi currier Tx 
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/Modulation_1v1.pdf
+        tagline: "A new idea for wireless Tx architect design."
 
       - title: EVM floor
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/EVM_floor_20230305.pdf
+        tagline: "EVM limitations for design and characterization"
+
+      - title: BER vs. Eb/No
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/system_architect_BER_web.pdf
+        tagline: "First data point to calculate Rx Sensitivity"
 
       - title: ChatGPT vs Brad
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/Bard_vs_ChatGPT.pdf
+        tagline: "For fun"
 
       - title: Database for data analysis
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/SQL_20230305.pdf
+        tagline: "Database and Data Analysis basic"
 
 publications:
     title: Publications
