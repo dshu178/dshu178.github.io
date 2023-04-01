@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: dshu178@gmail.com
     phone: # 408 219 8739 
-    timezone: America/Los Angles Timezone
+    timezone: America/Los Angeles Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
     linkedin: danshu
@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      10+ years of industry experience building up capability and capacity focusing on delivering results. True innovator with strong industry connections. A passionate linchpin who can quickly connect dots and identify new opportunities.
-      adipiscing elit. You can [download my resume](https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/Dan_Shu_Resume_Architect_20230328.pdf).
+      10+ years of industry experience building up capability and capacity focusing on delivering results. True innovator with strong industry connections. A passionate linchpin who can smartly connect dots and identify new opportunities.
+      You can [download my resume](https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/Dan_Shu_Resume_Architect_20230328.pdf).
       
 education:
     title: Education
@@ -145,7 +145,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Slides for summary and explnation of new ideas
+      Slides for summary and explanation of new ideas
     assignments:
       - title: WiFi package structure
         link: https://github.com/dshu178/dshu178.github.io/blob/master/assets/pdf/IEEE802_11.pdf
