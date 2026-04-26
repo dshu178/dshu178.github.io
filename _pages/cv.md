@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+* [Dan Shu Resume](https://github.com/dshu178/dshu178.github.io/blob/master/files/AMS_validation_DanShu_20260421.pdf)
+
 Highlights
 ======
+* Pioneered a multi-tool SerDes simulation framework (SystemVue, ADS, MATLAB) to enhance design quality and reduce validation cycle time for Signal Integrity and Package Integrity characterization.
 * Seasoned RF Front End architect for battery driven mobile and access point reference design.
 * Optical communication module and HighSpeed I/O silicon experience such as PCIE, 802.3, Coherent, NRZ/PAM4, ROSA/TOSA, Laser/photo diode, TIA, Laser Driver, CDR, Equalizer.
 * Low power architect for Qualcomm’s reference design.
@@ -21,6 +24,28 @@ Highlights
 
 Work experience
 ======
+
+### Principal Validation Engineer at [Marvell Technology ](https://www.marvell.com/), San Jose
+> May 2024 — present
+#### Working on the most advanced SerDes IP design and validation.
+
+* As the hardward system engineering architect, I serve as the key technical bridge across teams, connecting the dots to ensure seamless
+SerDes system integration.
+  *	SI simulation, lab characterization, and validation. 
+  *	System performance improvement. 
+  *	Next generation SerDes system architect research.
+* AI enablement.
+  * Spotfire Copilot developing for AI drivened data analysis platform.
+  * Led company-wide deployment of GitHub Copilot on lab PCs.
+
+### HighSpeed IO and RF/mmW Architect [Freelance/Consultant ](https://danzhoushu.github.io/year-archive/), San Jose
+> April 2023 — April 2024
+#### Worked with different start-ups.
+
+* Offered strategic consulting on high-speed I/O technologies to support early-stage chiplet development.
+* Delivered specialized RF architectural guidance to Front-End Module industry clients.
+* Partnered with RF and Si/PI specialists to analyze and optimize SerDes and optical link budgets.
+
 ### SENIOR STAFF, Connectivity Hardware System Architect at [Qualcomm Atheros](https://www.qualcomm.com/home), San Jose
 > October 2014 — March 2023
 #### Owner of Front-End Module (FEM) qualification process. Owner of Power, thermal KPIs. Owner of reference design RF co-existing FEM KPIs. 
@@ -114,11 +139,9 @@ Dan Shu
 2014 Advantest VOICE
 
 
-Dowoload .pdf version of resume and paper
+Dowoload .pdf version of paper
 ======
 
-  * [Dan Shu Resume](https://github.com/dshu178/dshu178.github.io/blob/master/files/Dan_Shu_Resume_Architect_20230712.pdf)
-
-  * [Quantifying Shmoo Results](https://github.com/dshu178/dshu178.github.io/blob/master/files/ID_089_Quantify_Shmoo_Results.pdf)
+    * [Quantifying Shmoo Results](https://github.com/dshu178/dshu178.github.io/blob/master/files/ID_089_Quantify_Shmoo_Results.pdf)
   
   
