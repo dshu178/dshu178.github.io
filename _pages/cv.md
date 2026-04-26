@@ -117,8 +117,8 @@ Dan Shu
 Dowoload .pdf version of resume and paper
 ======
 
-  * [Dan Shu Resume](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/Dan_Shu_Resume_Architect_20230712.pdf)
+  * [Dan Shu Resume](https://github.com/dshu178/dshu178.github.io/blob/master/files/Dan_Shu_Resume_Architect_20230712.pdf)
 
-  * [Quantifying Shmoo Results](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/ID_089_Quantify_Shmoo_Results.pdf)
+  * [Quantifying Shmoo Results](https://github.com/dshu178/dshu178.github.io/blob/master/files/ID_089_Quantify_Shmoo_Results.pdf)
   
   
