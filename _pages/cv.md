@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [Dan Shu Resume](https://github.com/dshu178/dshu178.github.io/blob/master/files/AMS_validation_DanShu_20260424.pdf)
+* [Dan Shu Resume](https://github.com/dshu178/dshu178.github.io/blob/main/files/AMS_Validation_DanShu_20260424.pdf)
 
 Highlights
 ======
