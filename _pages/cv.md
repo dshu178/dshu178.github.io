@@ -25,7 +25,7 @@ Highlights
 Work experience
 ======
 
-### Principal Validation Engineer at [Marvell Technology ](https://www.marvell.com/), San Jose
+### Principal Validation Engineer at [Marvell Technology ](https://www.marvell.com/), Santa Clara
 > May 2024 — present
 #### Working on the most advanced SerDes IP design and validation.
 
@@ -46,7 +46,7 @@ SerDes system integration.
 * Delivered specialized RF architectural guidance to Front-End Module industry clients.
 * Partnered with RF and Si/PI specialists to analyze and optimize SerDes and optical link budgets.
 
-### SENIOR STAFF, Connectivity Hardware System Architect at [Qualcomm Atheros](https://www.qualcomm.com/home), San Jose
+### SENIOR STAFF, Connectivity Hardware System Architect at [Qualcomm Atheros](https://www.qualcomm.com/home), Santa Clara
 > October 2014 — March 2023
 #### Owner of Front-End Module (FEM) qualification process. Owner of Power, thermal KPIs. Owner of reference design RF co-existing FEM KPIs. 
 
