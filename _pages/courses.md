@@ -12,10 +12,10 @@ author_profile: true
 {% endfor %}
 
 
-[**Regression Models**](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/Coursera%20regmods%202015.pdf)
+[**Regression Models**](https://github.com/dshu178/dshu178.github.io/blob/master/files/Coursera%20regmods%202015.pdf)
 Johns Hopkins on Coursera Oct 2015
 
-[**Statistical Inference**](https://github.com/danzhoushu/danzhoushu.github.io/blob/master/files/Coursera%20statinference%202015.pdf)
+[**Statistical Inference**](https://github.com/dshu178/dshu178.github.io/blob/master/files/Coursera%20statinference%202015.pdf)
 Johns Hopkins on Coursera Aug 2015
 
 [**Machine Learning**](https://github.com/dshu178/dshu178.github.io/blob/master/files/Coursera%20ml%202014.pdf)
