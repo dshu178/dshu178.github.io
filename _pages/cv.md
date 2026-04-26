@@ -138,10 +138,3 @@ Publications
 Dan Shu
 2014 Advantest VOICE
 
-
-Dowoload .pdf version of paper
-======
-
-    * [Quantifying Shmoo Results](https://github.com/dshu178/dshu178.github.io/blob/master/files/ID_089_Quantify_Shmoo_Results.pdf)
-  
-  
